@@ -1,0 +1,233 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : WEEK 11 ECG PROJECT new type 1.brd            )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sun May 23 19:35:43 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found ... using drawing extents
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/OrCAD/week 11/allegro/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.60960                                  DARK 
+  CIRCLE     1.49860                                  DARK 
+  RECTANGLE  0.86360     x 1.34620       0.000 NO     DARK 
+  RECTANGLE  0.86360     x 1.34620      90.000 NO     DARK 
+  RECTANGLE  1.19380     x 2.08280       0.000 NO     DARK 
+  RECTANGLE  1.19380     x 2.08280      90.000 NO     DARK 
+  RECTANGLE  1.98120     x 0.55880       0.000 NO     DARK 
+  RECTANGLE  2.30630     x 0.56080       0.000 NO     DARK 
+
+     TOP created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/OrCAD/week 11/allegro/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.60960                                  DARK 
+  CIRCLE     1.49860                                  DARK 
+
+     BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SM_TOP >
+     TO FILE < C:/OrCAD/week 11/allegro/SM_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.11760                                  DARK 
+  CIRCLE     1.49860                                  DARK 
+  RECTANGLE  0.86360     x 1.34620       0.000 NO     DARK 
+  RECTANGLE  0.86360     x 1.34620      90.000 NO     DARK 
+  RECTANGLE  1.19380     x 2.08280       0.000 NO     DARK 
+  RECTANGLE  1.19380     x 2.08280      90.000 NO     DARK 
+  RECTANGLE  1.98120     x 0.55880       0.000 NO     DARK 
+  RECTANGLE  2.30630     x 0.56080       0.000 NO     DARK 
+
+     SM_TOP created.
+
+
+================================================================
+     PROCESSING FILM < SM_BOT >
+     TO FILE < C:/OrCAD/week 11/allegro/SM_BOT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.11760                                  DARK 
+  CIRCLE     1.49860                                  DARK 
+
+     SM_BOT created.
+
+
+================================================================
+     PROCESSING FILM < SILK_TOP >
+     TO FILE < C:/OrCAD/week 11/allegro/SILK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                1.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (8.2550 18.4150)
+           ... using undefined line width of 1.0000
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 1.0000
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+
+     SILK_TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < DRILL_DRAW >
+     TO FILE < C:/OrCAD/week 11/allegro/DRILL_DRAW.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                1.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (-9.5250 70.5128)
+           ... using undefined line width of 1.0000
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 1.0000
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.00000                                  DARK 
+
+     DRILL_DRAW created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created.
+        BOTTOM created.
+        SM_TOP created.
+        SM_BOT created.
+        SILK_TOP created with warnings
+        DRILL_DRAW created with warnings
+
+ ARTWORK finished

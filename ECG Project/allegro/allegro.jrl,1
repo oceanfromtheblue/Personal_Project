@@ -1,0 +1,79 @@
+\t (00:00:01) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:01)     Journal start - Sun May 16 23:27:06 2021
+\t (00:00:01)         Host=DESKTOP-HV3D23G User=Miso Pid=14972 CPUs=16
+\t (00:00:01) 
+\t (00:00:01) Starting new design...
+\i (00:00:01) trapsize 653
+\i (00:00:01) trapsize 641
+\i (00:00:01) trapsize 655
+\i (00:00:02) trapsize 656
+\i (00:00:02) trapsize 921
+\i (00:00:03) open 
+\i (00:00:05) fillin "WEEK 11 ECG PROJECT.brd"
+\t (00:00:05) Opening existing design...
+\i (00:00:06) trapsize 11376
+\d (00:00:06) Database opened: C:/OrCAD/week 11/allegro/WEEK 11 ECG PROJECT.brd
+\i (00:00:06) generaledit 
+\i (00:00:10) color192 
+\i (00:00:10) setwindow cvf.dialog
+\i (00:00:10) cvf layer_mode
+\i (00:00:10) setwindow pcb
+\i (00:00:10) generaledit 
+\i (00:00:12) setwindow cvf.dialog
+\i (00:00:12) cvf global_invisible
+\i (00:00:14) cvf global_visible
+\i (00:00:15) cvf apply
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 15.0487 38.4832
+\i (00:00:19) trapsize 5688
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 15.1625 37.9144
+\i (00:00:19) trapsize 2844
+\i (00:00:20) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out 15.5038 36.4355
+\i (00:00:20) trapsize 5688
+\i (00:00:20) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out 15.5039 36.4356
+\i (00:00:20) trapsize 11376
+\i (00:00:30) setwindow cvf.dialog
+\i (00:00:30) cvf okay
+\i (00:00:35) setwindow pcb
+\i (00:00:35) ncdrill legend 
+\i (00:00:38) setwindow form.nc_drilllegend
+\i (00:00:38) FORM nc_drilllegend library  
+\i (00:00:39) fillin "menu_cancel"
+   (00:00:39) Loading mfg.cxt 
+\i (00:00:41) FORM nc_drilllegend cancel  
+\i (00:00:41) setwindow pcb
+\i (00:00:41) generaledit 
+\i (00:00:44) ncdrill param 
+\i (00:00:44) generaledit 
+\i (00:00:47) setwindow form.nc_parameters
+\i (00:00:47) FORM nc_parameters cancel  
+\i (00:00:49) setwindow pcb
+\i (00:00:49) nctape_full 
+\i (00:00:50) setwindow form.nc_drill
+\i (00:00:50) FORM nc_drill parameters  
+\i (00:00:52) setwindow form.nc_parameters
+\i (00:00:52) FORM nc_parameters cancel  
+\i (00:00:53) setwindow form.nc_drill
+\i (00:00:53) FORM nc_drill viewlog  
+\i (00:00:57) setwindow pcb
+\i (00:00:57) setwindow text
+save
+\i (00:01:12) fillin "ECG.txt"
+\i (00:01:36) setwindow text
+\i (00:01:36) close 
+\i (00:01:37) setwindow form.nc_drill
+\i (00:01:37) FORM nc_drill cancel  
+\i (00:01:37) setwindow pcb
+\i (00:01:37) generaledit 
+\i (00:04:51) exit 
+\e (00:04:51) Do you want to save the changes you made to WEEK 11 ECG PROJECT.brd?
+\i (00:04:52) fillin yes 
+\t (00:04:52)     Journal end - Sun May 16 23:31:58 2021

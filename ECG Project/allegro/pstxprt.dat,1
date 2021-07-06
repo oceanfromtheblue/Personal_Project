@@ -1,0 +1,432 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001May-14-2021 at 01:33:22 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='WEEK 11 ECG PROJECT';
+ POST_TIME='Sep 10 2012 04:46:09';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_CAPCK05_4.7U':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS330@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins330@analog.\c.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins330@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'C_CAPCK05_6.8N':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS2524@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins2524@analog.\c.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins2524@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'C_CAPCK05_470N':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS5331@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins5331@analog.\c.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins5331@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'C_CAPCK05_100N':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS5347@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins5347@analog.\c.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins5347@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'C_CAPCK05_47U':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS6005@DISCRETE.C.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins6005@discrete.\c.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins6005@discrete.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'C_CAPCK05_15U':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS6021@DISCRETE.C.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins6021@discrete.\c.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins6021@discrete.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'C_CAPCK05_4.7U':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS346@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins346@analog.\c.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins346@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'C_CAPCK05_4.7U':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS362@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins362@analog.\c.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins362@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'C_CAPCK05_4.7U':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS378@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins378@analog.\c.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins378@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'C_CAPCK05_330N':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS394@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins394@analog.\c.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins394@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'C_CAPCK05_330N':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS410@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins410@analog.\c.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins410@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'C_CAPCK05_47N':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS426@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins426@analog.\c.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins426@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'C_CAPCK05_150N':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS442@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins442@analog.\c.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins442@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'C_CAPCK05_15N':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS2488@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins2488@analog.\c.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins2488@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON2_JUMPER2_CON2':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS26@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins26@connector.\con2.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins26@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON2_JUMPER2_CON2':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS42@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins42@connector.\con2.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins42@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'CON2_JUMPER2_CON2':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS5445@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins5445@connector.\con2.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins5445@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'CON2_JUMPER2_CON2':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS5461@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins5461@connector.\con2.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins5461@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RC0805N_YAG_300K':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS129@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins129@analog.\r.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins129@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_RC0805N_YAG_560K':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS273@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins273@analog.\r.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins273@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_RC0805N_YAG_47K':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS289@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins289@analog.\r.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins289@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_RC0805N_YAG_560K':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS305@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins305@analog.\r.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins305@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_RC0805N_YAG_820K':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS5372@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins5372@analog.\r.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins5372@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_RC0805N_YAG_1000K':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS5388@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins5388@analog.\r.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins5388@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_RC0805N_YAG_1K':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS5404@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins5404@analog.\r.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins5404@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_RC0805N_YAG_2.7M':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS5420@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins5420@analog.\r.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins5420@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RC0805N_YAG_130K':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS145@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins145@analog.\r.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins145@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_RC0805N_YAG_25K':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS161@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins161@analog.\r.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins161@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_RC0805N_YAG_360K':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS177@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins177@analog.\r.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins177@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_RC0805N_YAG_910K':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS193@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins193@analog.\r.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins193@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_RC0805N_YAG_25K':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS209@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins209@analog.\r.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins209@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_RC0805N_YAG_1.5M':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS225@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins225@analog.\r.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins225@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_RC0805N_YAG_1K':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS241@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins241@analog.\r.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins241@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_RC0805N_YAG_68K':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS257@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins257@analog.\r.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins257@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'INA118/SO_0_D8-M_INA118/SO':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS79@WEEK 11 ECG PROJECT.INA118/SO_0.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins79@\week 11 ecg project\.\ina118/so_0.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins79@\week 11 ecg project\.\ina118/so_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'OP497/SO_RW_16_ADI_OP497/SO':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS473@OPAMP.OP497/SO.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins473@opamp.\op497/so.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins473@opamp.\op497/so.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS514@OPAMP.OP497/SO.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins514@opamp.\op497/so.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins514@opamp.\op497/so.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS555@OPAMP.OP497/SO.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins555@opamp.\op497/so.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins555@opamp.\op497/so.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='C';
+
+SECTION_NUMBER 4
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS596@OPAMP.OP497/SO.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins596@opamp.\op497/so.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins596@opamp.\op497/so.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='D';
+
+PART_NAME
+ U3 'OP497/SO_RW_16_ADI_OP497/SO':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS637@OPAMP.OP497/SO.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins637@opamp.\op497/so.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins637@opamp.\op497/so.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS5199@OPAMP.OP497/SO.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins5199@opamp.\op497/so.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins5199@opamp.\op497/so.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS5240@OPAMP.OP497/SO.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins5240@opamp.\op497/so.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins5240@opamp.\op497/so.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='C';
+
+SECTION_NUMBER 4
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS5281@OPAMP.OP497/SO.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins5281@opamp.\op497/so.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins5281@opamp.\op497/so.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='D';
+
+PART_NAME
+ U4 'MAX660_0_21-0041B_8_MXM_MAX660':;
+
+SECTION_NUMBER 1
+ '@WEEK 11 ECG PROJECT.SCHEMATIC1(SCH_1):INS5919@WEEK 11 ECG PROJECT.MAX660_0.NORMAL(CHIPS)':
+ C_PATH='@\week 11 ecg project\.schematic1(sch_1):ins5919@\week 11 ecg project\.\max660_0.normal\(chips)',
+ P_PATH='@\week 11 ecg project\.schematic1(sch_1):page1_ins5919@\week 11 ecg project\.\max660_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
