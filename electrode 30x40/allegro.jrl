@@ -1,0 +1,16 @@
+\t (00:00:01) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:01)     Journal start - Fri Jul 16 13:37:54 2021
+\t (00:00:01)         Host=DESKTOP-MQDCHGD User=user Pid=9888 CPUs=12
+\t (00:00:01) 
+\t (00:00:01) Starting new design...
+\i (00:00:02) trapsize 857
+\i (00:00:02) trapsize 837
+\i (00:00:02) trapsize 861
+\i (00:00:02) trapsize 1448
+\i (00:00:03) generaledit 
+\i (00:00:03) open 
+\i (00:00:10) fillin "C:\Users\user\Desktop\QWER\electrode 30x40.brd"
+\i (00:00:10) cd "C:\Users\user\Desktop\QWER"
+\t (00:00:10) Opening existing design...
+\i (00:00:10) trapsize 6271
+\t (00:00:10)     Journal end - Fri Jul 16 13:38:03 2021

@@ -1,0 +1,225 @@
+\t (00:00:10) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:10)     Journal start - Fri Jul 16 13:38:03 2021
+\t (00:00:10)         Host=DESKTOP-MQDCHGD User=user Pid=9888 CPUs=12
+\t (00:00:10) 
+\d (00:00:10) Database opened: C:/Users/user/Desktop/QWER/electrode 30x40.brd
+\i (00:00:10) generaledit 
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in -22.9763 11.7659
+\i (00:00:11) trapsize 3136
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 20.9845 17.4727
+\i (00:00:12) trapsize 1568
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 20.9845 17.4727
+\i (00:00:12) trapsize 784
+\i (00:00:14) drag_start grid 22.0506 17.7236
+\i (00:00:14) move 
+\t (00:00:14) last pick:  20.0000  15.0000
+\t (00:00:14) Moving TP1 / T POINT R_TP_PAD24X24_T POINT R / TP_PAD24X24.
+\t (00:00:14) Pick new location for the element(s).
+\i (00:00:15) drag_stop grid 20.3731 17.7236
+\i (00:00:15) generaledit 
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 21.0473 17.3787
+\i (00:00:16) trapsize 1568
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 20.9218 17.3159
+\i (00:00:16) trapsize 3136
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 21.0472 17.3159
+\i (00:00:17) trapsize 6271
+\i (00:00:17) drag_start grid 14.5252 17.5668
+\i (00:00:17) move 
+\t (00:00:17) last pick:  20.3200  17.7800
+\t (00:00:17) Moving TP1 / T POINT R_TP_PAD24X24_T POINT R / TP_PAD24X24.
+\t (00:00:17) Pick new location for the element(s).
+\i (00:00:17) drag_stop grid 77.9892 22.0820
+\i (00:00:18) generaledit 
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in -1.9052 14.0549
+\i (00:00:18) trapsize 3136
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 11.1388 16.4379
+\i (00:00:18) trapsize 1568
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 23.9319 17.6608
+\i (00:00:19) trapsize 784
+\i (00:00:20) drag_start grid 21.4862 17.4884
+\i (00:00:20) move 
+\t (00:00:20) last pick:  15.2400  12.7000
+\t (00:00:20) Moving U4 / SUP_PAD_SUP10X10_SUP_PAD / SUP10X10.
+\t (00:00:20) Pick new location for the element(s).
+\i (00:00:24) drag_stop grid 17.1434 13.4749
+\i (00:00:24) generaledit 
+\i (00:00:24) zoom out 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom out 16.7514 14.7291
+\i (00:00:24) trapsize 1568
+\i (00:00:25) drag_start grid 19.1032 16.4850
+\i (00:00:25) move 
+\t (00:00:25) last pick:  17.1450  13.3350
+\t (00:00:25) Moving U4 / SUP_PAD_SUP10X10_SUP_PAD / SUP10X10.
+\t (00:00:25) Pick new location for the element(s).
+\i (00:00:26) drag_stop grid 13.7413 16.0461
+\i (00:00:26) generaledit 
+\i (00:00:27) pick grid 26.0014 17.8333
+\t (00:00:27) last pick:  26.0350  17.7800
+\i (00:00:28) prepopup 26.0014 17.8333
+\i (00:00:29) pop dyn_option_select @:@Delete 
+\i (00:00:29) delete 
+\i (00:00:29) generaledit 
+\i (00:00:29) drag_start grid 18.9464 19.8715
+\i (00:00:29) move 
+\t (00:00:29) last pick:  13.9700  15.8750
+\t (00:00:29) Moving U4 / SUP_PAD_SUP10X10_SUP_PAD / SUP10X10.
+\t (00:00:29) Pick new location for the element(s).
+\i (00:00:32) drag_stop grid 15.5913 12.4715
+\i (00:00:32) generaledit 
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 14.8388 13.0986
+\i (00:00:32) trapsize 3136
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 8.5676 10.5275
+\i (00:00:32) trapsize 6271
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in -8.8662 5.2597
+\i (00:00:33) trapsize 3136
+\i (00:00:34) drag_start grid 17.7862 15.2935
+\i (00:00:34) move 
+\t (00:00:34) last pick:  15.8750  12.7000
+\t (00:00:34) Moving U4 / SUP_PAD_SUP10X10_SUP_PAD / SUP10X10.
+\t (00:00:34) Pick new location for the element(s).
+\i (00:00:37) drag_stop grid 15.4032 11.7817
+\i (00:00:37) generaledit 
+\i (00:00:39) pick grid 17.9744 18.0528
+\t (00:00:39) last pick:  17.7800  17.7800
+\i (00:00:40) pick grid 13.6473 20.8121
+\t (00:00:40) last pick:  13.3350  20.9550
+\i (00:00:40) prepopup 13.6473 20.8121
+\i (00:00:41) pop dyn_option_select @:@Delete 
+\i (00:00:41) delete 
+\i (00:00:41) generaledit 
+\i (00:00:42) pick grid 14.9015 20.1223
+\t (00:00:42) last pick:  14.6050  20.3200
+\i (00:00:42) prepopup 14.9015 20.1223
+\i (00:00:42) pop dyn_option_select @:@Delete 
+\i (00:00:42) delete 
+\i (00:00:42) generaledit 
+\i (00:00:43) zoom in 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in 15.2778 16.7359
+\i (00:00:43) trapsize 1568
+\i (00:00:43) drag_start grid 17.9744 17.3317
+\i (00:00:43) move 
+\t (00:00:44) last pick:  15.2400  12.0650
+\t (00:00:44) Moving U4 / SUP_PAD_SUP10X10_SUP_PAD / SUP10X10.
+\t (00:00:44) Pick new location for the element(s).
+\i (00:00:44) drag_stop grid 14.1177 16.6418
+\i (00:00:44) generaledit 
+\i (00:00:45) zoom in 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom in 17.0024 18.7113
+\i (00:00:45) trapsize 784
+\i (00:00:47) drag_start grid 19.0562 16.3440
+\i (00:00:47) drag_stop 19.1503 15.9991
+\i (00:00:48) drag_start grid 19.0719 16.2656
+\i (00:00:48) drag_stop 18.8838 16.4537
+\i (00:00:48) drag_start grid 18.4448 17.5512
+\i (00:00:48) move 
+\t (00:00:48) last pick:  13.9700  16.5100
+\t (00:00:48) Moving U4 / SUP_PAD_SUP10X10_SUP_PAD / SUP10X10.
+\t (00:00:48) Pick new location for the element(s).
+\i (00:00:49) drag_stop grid 14.1334 16.1402
+\i (00:00:49) generaledit 
+\i (00:00:49) zoom out 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom out 14.8075 16.3283
+\i (00:00:49) trapsize 1568
+\i (00:00:49) zoom out 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom out 14.9957 16.2343
+\i (00:00:49) trapsize 3136
+\i (00:00:49) zoom out 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom out 15.6229 16.0461
+\i (00:00:49) trapsize 6271
+\i (00:00:50) drag_start grid 13.0201 19.3071
+\i (00:00:50) drag_stop 26.1895 39.6256
+\i (00:00:51) pick grid 20.2946 20.9376
+\t (00:00:51) last pick:  20.3200  20.9550
+\i (00:00:51) drag_start grid 18.1624 20.3105
+\i (00:00:51) move 
+\t (00:00:51) last pick:  13.9700  15.8750
+\t (00:00:51) Moving U4 / SUP_PAD_SUP10X10_SUP_PAD / SUP10X10.
+\t (00:00:51) Pick new location for the element(s).
+\i (00:00:51) drag_stop grid 25.0607 45.8968
+\i (00:00:51) generaledit 
+\i (00:00:52) zoom in 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom in 32.0844 42.0087
+\i (00:00:52) trapsize 3136
+\i (00:00:52) zoom in 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom in 31.3946 43.0121
+\i (00:00:52) trapsize 1568
+\i (00:00:52) zoom out 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom out 30.0149 44.0469
+\i (00:00:52) trapsize 3136
+\i (00:00:53) zoom out 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom out 28.8234 43.3570
+\i (00:00:53) trapsize 6271
+\i (00:00:53) zoom out 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom out 28.4471 42.9808
+\i (00:00:53) trapsize 12542
+\i (00:00:53) zoom out 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom out 74.3520 70.8401
+\i (00:00:53) trapsize 17888
+\i (00:00:53) zoom in 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom in 7.2061 51.2095
+\i (00:00:53) trapsize 8944
+\i (00:00:53) zoom in 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom in 15.2556 52.2828
+\i (00:00:53) trapsize 4472
+\i (00:00:54) zoom in 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom in 20.2641 49.6891
+\i (00:00:54) trapsize 2236
+\i (00:00:54) zoom in 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom in 28.0900 49.9575
+\i (00:00:54) trapsize 1118
+\i (00:00:55) zoom out 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out 30.8178 49.4432
+\i (00:00:55) trapsize 2236
+\i (00:00:55) zoom out 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out 30.7732 49.3985
+\i (00:00:55) trapsize 4472
+\i (00:00:55) zoom out 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out 30.6837 49.3091
+\i (00:00:55) trapsize 8944
+\i (00:00:57) exit 
+\e (00:00:57) Do you want to save the changes you made to electrode 30x40.brd?
+\i (00:00:58) fillin no 
+\t (00:00:59)     Journal end - Fri Jul 16 13:38:52 2021
